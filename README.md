@@ -1,6 +1,7 @@
-# SMILES-probing
-
-_Repository of "Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task"_
+<h3 align="center"> Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task </h3>
+<p align="center">
+  📃 <a href="https://arxiv.org/abs/2311.12410](https://openreview.net/pdf?id=JoO6mtCLHD" target="_blank">Paper</a> <br>
+</p>
 
 ![poster](images/poster_ICLR.png)
 
@@ -29,3 +30,14 @@ There are 4 models used in the experiment:
 Code for model inference is located in the "code" folder.
 
 
+##  References 
+If you use our repository, please cite the following related paper:
+
+```
+@inproceedings{probing,
+  title={Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task},
+  author={Ganeeva, Veronika and Khrabrov, Kuzma and Kadurin, Artur and Savchenko, Andrey and Tutubalina, Elena},
+  booktitle={The Second Tiny Papers Track at ICLR 2024},
+  url={https://openreview.net/pdf?id=JoO6mtCLHD}
+}
+```
