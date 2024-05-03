@@ -2,12 +2,14 @@
 
 _Repository of "Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task"_
 
+![poster](images/poster_ICLR.png)
+
 ## Augmentations
 
 './code/augmentation.py' creates 4 types of augmentations: 
 - rdkit canonicalization
 - explicit addition of hydrogens
-- kekulisation
+- kekulization
 - replacement of cycle identifiers by random numbers
 
 Full description is provided in the paper.
@@ -25,3 +27,5 @@ There are 4 models used in the experiment:
   - 'GT4SD/multitask-text-and-chemistry-t5-base-augm'
   
 Code for model inference is located in the "code" folder.
+
+
