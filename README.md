@@ -1,6 +1,6 @@
 <h3 align="center"> Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task </h3>
 <p align="center">
-  📃 <a href="https://arxiv.org/abs/2311.12410](https://openreview.net/pdf?id=JoO6mtCLHD" target="_blank">Paper</a> <br>
+  📃 <a href="https://openreview.net/pdf?id=JoO6mtCLHD" target="_blank">Paper</a> <br>
 </p>
 
 ![poster](images/poster_ICLR.png)
