@@ -200,7 +200,7 @@ def cycleRenumering(smiles, mol=None, method="dummy"):
                 if cycle_ids_seq[seq_id - 1] == cycle_id:
                     new_cycle_id = random.choice(list(possible_cycle_ids - open_cycles))
                     new_cycle_ids_seq[-2] = new_cycle_ids_seq[-1] = new_cycle_id
-                    open_cycles.remove(cycle_id)
+                open_cycles.remove(cycle_id)
     else:
         raise NotImplemented
 
